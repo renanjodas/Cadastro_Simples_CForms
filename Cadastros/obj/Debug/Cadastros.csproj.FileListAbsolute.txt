@@ -1,0 +1,12 @@
+C:\Users\aluno\Desktop\Sistema1\Sistema1\Cadastros\bin\Debug\Cadastros.exe.config
+C:\Users\aluno\Desktop\Sistema1\Sistema1\Cadastros\bin\Debug\Cadastros.exe
+C:\Users\aluno\Desktop\Sistema1\Sistema1\Cadastros\bin\Debug\Cadastros.pdb
+C:\Users\aluno\Desktop\Sistema1\Sistema1\Cadastros\obj\Debug\Cadastros.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\Sistema1\Sistema1\Cadastros\obj\Debug\Cadastros.Form1.resources
+C:\Users\aluno\Desktop\Sistema1\Sistema1\Cadastros\obj\Debug\Cadastros.FormClientes.resources
+C:\Users\aluno\Desktop\Sistema1\Sistema1\Cadastros\obj\Debug\Cadastros.FormFuncionarios.resources
+C:\Users\aluno\Desktop\Sistema1\Sistema1\Cadastros\obj\Debug\Cadastros.Properties.Resources.resources
+C:\Users\aluno\Desktop\Sistema1\Sistema1\Cadastros\obj\Debug\Cadastros.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Sistema1\Sistema1\Cadastros\obj\Debug\Cadastros.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Sistema1\Sistema1\Cadastros\obj\Debug\Cadastros.exe
+C:\Users\aluno\Desktop\Sistema1\Sistema1\Cadastros\obj\Debug\Cadastros.pdb

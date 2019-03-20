@@ -1,0 +1,45 @@
+
+------ Cadastro de Funcionários ------
+
+Nome: Mariane
+
+Estado Civil: Casado (a)
+
+______________________________________
+
+
+------ Cadastro de Funcionários ------
+
+Nome: gfhgh
+
+Estado Civil: Solteiro (a)
+
+______________________________________
+
+
+------ Cadastro de Funcionários ------
+
+______________________________________
+
+
+------ Cadastro de Clientes ------
+
+Nome: 1111
+
+Telefone: (11) 11111-111
+
+Cidade: Piracicaba
+
+__________________________________
+
+
+------ Cadastro de Clientes ------
+
+Nome: 3123213
+
+Telefone: (11) 11111-11
+
+Cidade: Piracicaba
+
+__________________________________
+
